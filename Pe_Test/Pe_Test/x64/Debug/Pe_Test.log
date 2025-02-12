@@ -1,0 +1,349 @@
+﻿  func.cpp
+D:\user\桌面\proc\Pe_Test\func.cpp(20,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\user\桌面\proc\Pe_Test\func.cpp(89,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(89,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(89,8): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\user\桌面\proc\Pe_Test\func.cpp(94,34): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(94,34): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(94,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\user\桌面\proc\Pe_Test\func.cpp(95,35): warning C4311: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(95,35): warning C4302: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(95,14): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(96,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(96,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(96,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(97,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(97,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(97,19): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(115,18): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(115,18): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(115,10): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(116,18): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(116,18): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(116,4): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(136,65): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(136,65): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(136,45): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\user\桌面\proc\Pe_Test\func.cpp(137,66): warning C4311: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(137,66): warning C4302: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(137,45): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(138,76): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(138,76): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(138,49): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(139,74): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(139,74): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(139,50): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(168,18): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(168,18): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(168,10): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(169,18): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(169,18): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(169,4): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(183,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\user\桌面\proc\Pe_Test\func.cpp(204,34): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(204,34): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(204,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\user\桌面\proc\Pe_Test\func.cpp(205,35): warning C4311: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(205,35): warning C4302: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(205,14): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(206,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(206,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(206,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(207,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(207,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(207,19): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(247,34): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(247,34): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(247,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\user\桌面\proc\Pe_Test\func.cpp(248,35): warning C4311: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(248,35): warning C4302: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(248,14): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(249,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(249,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(249,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(250,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(250,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(250,19): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(279,34): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(279,34): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(279,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\user\桌面\proc\Pe_Test\func.cpp(318,34): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(318,34): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(318,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\user\桌面\proc\Pe_Test\func.cpp(328,43): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(328,43): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(328,19): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(373,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(373,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(373,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(374,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(374,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(374,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(375,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(375,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(388,4): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(388,4): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(387,20): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PBYTE”
+D:\user\桌面\proc\Pe_Test\func.cpp(393,34): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(393,34): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(393,62): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(393,62): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(398,34): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(398,34): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(398,73): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(398,73): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(402,39): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(402,39): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(402,58): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(402,58): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(461,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(461,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(461,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(462,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(462,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(462,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(463,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(463,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(492,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(492,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(492,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(494,5): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(494,5): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(493,18): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(495,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(495,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(518,28): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(518,28): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(518,20): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PBYTE”
+D:\user\桌面\proc\Pe_Test\func.cpp(523,34): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(523,34): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(523,61): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(523,61): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(528,34): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(528,34): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(528,73): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(528,73): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(532,39): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(532,39): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(532,58): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(532,58): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(507,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\user\桌面\proc\Pe_Test\func.cpp(574,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(574,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(574,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(575,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(575,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(575,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(576,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(576,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(606,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(606,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(606,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(608,5): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(608,5): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(607,18): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(609,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(609,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(616,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(616,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(617,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(617,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(617,3): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(621,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(621,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(622,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(622,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(622,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(623,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(623,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(648,28): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(648,28): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(648,20): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PBYTE”
+D:\user\桌面\proc\Pe_Test\func.cpp(653,34): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(653,34): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(653,61): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(653,61): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(658,34): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(658,34): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(658,73): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(658,73): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(662,39): warning C4311: “类型强制转换”: 从“PBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(662,39): warning C4302: “类型强制转换”: 从“PBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(662,58): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(662,58): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(640,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\user\桌面\proc\Pe_Test\func.cpp(703,35): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(703,35): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(703,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(704,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(704,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(704,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(705,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(705,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(745,35): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(745,35): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(745,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(746,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(746,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(746,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(756,67): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(756,67): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(756,41): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_EXPORT_DIRECTORY”
+D:\user\桌面\proc\Pe_Test\func.cpp(774,29): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(774,29): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(774,20): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\user\桌面\proc\Pe_Test\func.cpp(775,27): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(775,27): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(775,19): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PWORD”
+D:\user\桌面\proc\Pe_Test\func.cpp(776,28): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(776,28): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(776,19): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\user\桌面\proc\Pe_Test\func.cpp(778,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\user\桌面\proc\Pe_Test\func.cpp(780,26): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(780,26): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(780,18): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“char *”
+D:\user\桌面\proc\Pe_Test\func.cpp(783,10): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+D:\user\桌面\proc\Pe_Test\func.cpp(783,10): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "DWORD" 的参数 1 冲突
+D:\user\桌面\proc\Pe_Test\func.cpp(807,35): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(807,35): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(807,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(808,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(808,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(808,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(825,74): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(825,74): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(825,49): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BASE_RELOCATION”
+D:\user\桌面\proc\Pe_Test\func.cpp(845,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\user\桌面\proc\Pe_Test\func.cpp(874,54): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(874,54): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(874,33): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(875,70): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(875,70): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(875,43): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(876,65): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(876,65): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(918,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(918,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(918,9): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(940,28): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(940,28): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(940,19): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+D:\user\桌面\proc\Pe_Test\func.cpp(946,32): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(946,32): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(946,18): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(948,45): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(948,45): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(948,62): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(948,62): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(954,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(954,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(954,60): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(954,60): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(954,46): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(956,47): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(956,47): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(956,76): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(956,76): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(956,74): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\user\桌面\proc\Pe_Test\func.cpp(962,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(962,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(962,72): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(962,72): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(962,58): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(964,44): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(964,44): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(964,85): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(964,85): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(964,83): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\user\桌面\proc\Pe_Test\func.cpp(967,35): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(967,35): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(969,30): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(969,30): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(969,21): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\user\桌面\proc\Pe_Test\func.cpp(971,28): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(971,28): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(973,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\user\桌面\proc\Pe_Test\func.cpp(975,36): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(975,36): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(975,22): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const char *”
+D:\user\桌面\proc\Pe_Test\func.cpp(978,34): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(978,34): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(978,20): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(980,41): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(980,41): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(980,59): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(980,59): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(983,22): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(983,22): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(990,44): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(990,44): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(990,62): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(990,62): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(927,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\user\桌面\proc\Pe_Test\func.cpp(1015,54): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1015,54): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1015,33): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(1016,70): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1016,70): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1016,43): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(1017,65): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1017,65): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1045,35): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1045,35): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1045,14): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(1046,45): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1046,45): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1046,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(1047,43): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1047,43): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1050,17): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1050,17): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1050,9): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+D:\user\桌面\proc\Pe_Test\func.cpp(1077,63): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1077,63): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1077,38): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BASE_RELOCATION”
+D:\user\桌面\proc\Pe_Test\func.cpp(1079,27): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1079,27): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1079,18): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPBYTE”
+D:\user\桌面\proc\Pe_Test\func.cpp(1082,40): warning C4311: “类型强制转换”: 从“LPBYTE”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1082,40): warning C4302: “类型强制转换”: 从“LPBYTE”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1082,56): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1082,56): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1059,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\user\桌面\proc\Pe_Test\func.cpp(1119,54): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1119,54): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1119,33): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(1120,70): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1120,70): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1120,43): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(1125,56): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1125,56): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1125,31): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BASE_RELOCATION”
+D:\user\桌面\proc\Pe_Test\func.cpp(1159,54): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1159,54): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1159,33): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\user\桌面\proc\Pe_Test\func.cpp(1160,70): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1160,70): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1160,43): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_OPTIONAL_HEADER32”
+D:\user\桌面\proc\Pe_Test\func.cpp(1161,65): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1161,65): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1168,66): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1168,66): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1168,39): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_IMPORT_DESCRIPTOR”
+D:\user\桌面\proc\Pe_Test\func.cpp(1182,40): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1182,40): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1182,26): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“const char *”
+D:\user\桌面\proc\Pe_Test\func.cpp(1188,58): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1188,58): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1188,36): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_THUNK_DATA32”
+D:\user\桌面\proc\Pe_Test\func.cpp(1201,62): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1201,62): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1201,38): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_IMPORT_BY_NAME”
+D:\user\桌面\proc\Pe_Test\func.cpp(1213,59): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1213,59): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1213,37): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_THUNK_DATA32”
+D:\user\桌面\proc\Pe_Test\func.cpp(1226,62): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1226,62): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\user\桌面\proc\Pe_Test\func.cpp(1226,38): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_IMPORT_BY_NAME”
+  main.cpp
+  正在生成代码...
